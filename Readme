@@ -1,0 +1,8 @@
+Project : Restaurant Recommendation System
+
+Dataset used: 
+	Yelp contest dataset.
+
+Techniques :
+	Support Vector Machine
+	Logistic regressor.

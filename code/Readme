@@ -1,0 +1,5 @@
+Execution sequence : 
+	1. pre_process.py
+	2. features.py
+	3. train_test.py
+	
